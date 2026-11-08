@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/shared/component/control-messages/control-messages.component.scss"],
+  "sourcesContent": [".error-message {\n    color: #a94442;\n    margin-top: 1rem;\n}\n"],
+  "mappings": "AAAA,CAAA,cACI,MAAA,QACA,WAAA",
+  "names": []
+}

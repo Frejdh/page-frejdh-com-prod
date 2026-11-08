@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/pages/auth/login/login.component.scss"],
+  "sourcesContent": ["\n.form-checkbox-padding {\n\tpadding-top: 0.35rem;\n\tpadding-bottom: 0.7rem;\n}"],
+  "mappings": "AACA,CAAA,sBACC,YAAA,OACA,eAAA",
+  "names": []
+}
